@@ -4,3 +4,4 @@
 
 def task_1_3(*args):
     print(sorted(set(*args)))
+
