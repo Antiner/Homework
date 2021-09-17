@@ -11,3 +11,4 @@ def task_1_2(string):
         else:
             dictionary[n] = 1
     print(dictionary)
+    
