@@ -10,3 +10,4 @@ def task_1_6_1(a, b, c, d):
         for k in range(c, d + 1):
             print(i * k, end="\t")
         print()
+
